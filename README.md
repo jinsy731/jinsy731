@@ -1,6 +1,6 @@
 # 진승연 (Seungyeon Jin)
 
-백엔드 개발자로 3년간 일하며 안정적이고 확장 가능한 시스템 개발에 집중하고 있습니다.
+백엔드 개발자로 3년간 일하며 안정적이고 확장 가능한 시스템 개발에 관심을 가지고 개발하고 있습니다.
 
 [![Email](https://img.shields.io/badge/Gmail-jinsy731@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:jinsy731@gmail.com)
 
@@ -30,5 +30,4 @@
 - 도메인 주도 설계(DDD)
 - AI Agent 기술
 
-## GitHub 통계
 ![jinsy731's github stats](https://github-readme-stats.vercel.app/api?username=jinsy731&show_icons=true&theme=default)
