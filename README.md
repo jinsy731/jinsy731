@@ -2,19 +2,35 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!+👋" />
 </p>
 
+<p align="center">
+  <a href="mailto:jinsy731@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/gmail.png" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/seungyeon-jin-443496241/">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="linkedin" />
+  </a>
+</p>
+
+
+![jinsy731's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinsy731&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsy731&layout=compact&theme=radical)
+
+###### I'm a passionate developer, tech enthusiast, and lifelong learner. 
+###### I love building projects, exploring new technologies.
+
 ---
 
-### 🧠 Areas of Expertise
-I specialize in designing and implementing backend systems grounded in domain models. My work focuses on building scalable and maintainable architectures, particularly under high-traffic conditions. I have experience in developing distributed systems that leverage messaging infrastructure to ensure system resilience and flexibility.
+### 🚀 About Me
+
+- 💼 **Role:** Developer / Engineer
+- 🛠️ **Main Tech:** Java, Kotlin, Spring
+- 💡 **Interests:** web development, DDD, Clean Code/Architecture, AI/ML, automation, and creative coding
+- 🎯 **Currently learning:** Distributed System
 
 
 
-### 🌱 Interests
-I'm particularly interested in Domain-Driven Design (DDD) as a way to align software structure with business complexity. I also explore architectural patterns for distributed systems, and recently, I've been working on backend integrations that support AI-based agent systems.
-
----
-
-### ⚙️ Tech Stack
+### 🧰 Tech Stack
 
 <div align="center">
 
@@ -37,17 +53,4 @@ I'm particularly interested in Domain-Driven Design (DDD) as a way to align soft
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jinsy731&show_icons=true&theme=tokyonight" width="420" />
-    </td>
-    <td align="center">
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jinsy731&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/jinsy731" width="420" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
