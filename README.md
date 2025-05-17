@@ -1,4 +1,12 @@
-# 진승연 (Seungyeon Jin)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jinsy731&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jinsy731?pet-id=711593748920561677"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 백엔드 개발자로 3년간 일하며 안정적이고 확장 가능한 시스템 개발에 관심을 가지고 개발하고 있습니다.
 
@@ -30,4 +38,4 @@
 - 도메인 주도 설계(DDD)
 - AI Agent 기술
 
-![jinsy731's github stats](https://github-readme-stats.vercel.app/api?username=jinsy731&show_icons=true&theme=default)
+![jinsy731's github stats](https://github-readme-stats.vercel.app/api?username=jinsy731&show_icons=true&theme=tokyonight)
