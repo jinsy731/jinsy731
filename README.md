@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there!+👋" />
 </p>
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jinsy731&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jinsy731?pet-id=715166717424559351"
+    width="800"
+    height="120"
+  />
+</a>
+  
+
 <p align="center">
   <a href="mailto:jinsy731@gmail.com">
     <img src="https://img.icons8.com/ios-filled/30/ffffff/gmail.png" alt="email" />
