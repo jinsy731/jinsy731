@@ -23,7 +23,6 @@
 ### 🚀 About Me
 
 - 💼 **Role:** Developer / Engineer
-- 🛠️ **Main Tech:** Java, Kotlin, Spring
 - 💡 **Interests:** web development, DDD, Clean Code/Architecture, AI/ML, automation, and creative coding
 - 🎯 **Currently learning:** Distributed System, Techniques for managing large-scale traffic efficiently, Implementing scalable and maintainable software architecture
 
