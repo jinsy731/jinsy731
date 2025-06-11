@@ -5,23 +5,12 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jinsy731&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/jinsy731?pet-id=715166717424559351"
-    width="800"
+    src="https://render.gitanimals.org/lines/jinsy731?pet-id=711593718960638108"
+    width="600"
     height="120"
   />
 </a>
   
-
-<p align="center">
-  <a href="mailto:jinsy731@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/gmail.png" alt="email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seungyeon-jin-443496241/">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png" alt="linkedin" />
-  </a>
-</p>
-
 
 ![jinsy731's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinsy731&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsy731&layout=compact&theme=radical)
